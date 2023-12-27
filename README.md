@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Constanza!
-![giphy](https://github.com/Constanzamw/Constanzamw/assets/140072401/b03bd839-8274-4780-9150-5ec4211c9496)
+   ![giphy](https://github.com/Constanzamw/Constanzamw/assets/140072401/b03bd839-8274-4780-9150-5ec4211c9496)
 
 😎 WHO AM I? 
 _______________________________________________________________________________________________________________
@@ -19,7 +19,8 @@ BackEnd: Node | Express | JavaScript
 Database: PostgreSQL | Sequelize | MongoDb
 
 
-(https://github.com/Constanzamw/Constanzamw/assets/140072401/8bbe0be2-8731-430f-809a-2d124b8ca9f6) [JavaScript](https://www.javascript.com/)
+![image](https://github.com/Constanzamw/Constanzamw/assets/140072401/2e2661a3-322e-45f1-9348-467835a2c47c)
+
 
 
 🛠 Interested in:
@@ -30,12 +31,14 @@ ________________________________________________________________________________
 - Mobile
 
 
+
 🥇 GOALS 
 _______________________________________________________________________________________________________________
 
 - Become skilled in NextJs
 - Become skilled in css
 - Grow as a person
+
 
 
 📲 Contact Information
