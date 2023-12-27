@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 A Full-Stack Developer from Buenos Aires, Argentina to the 🌎
 
-- 📢 People call me: Tanzi or Connie
+- 📢 People call me: Connie or Tanzi
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love to bake ! 🥐
 
