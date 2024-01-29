@@ -55,9 +55,9 @@ Database: PostgreSQL | Sequelize | MongoDb
 
 🛠 INTERESTED IN
 _______________________________________________________________________________________________________________
-- Fronted
 - FullStack
 - BackEnd
+- Fronted
 - Mobile
 
 
