@@ -22,11 +22,13 @@ A Full-Stack Developer from Buenos Aires, Argentina to the 🌎
 ⭐ LANGUAGES AND TOOLS
 _______________________________________________________________________________________________________________
 
-FrontEnd: React | Redux | Next.js | Tailwind | CSS
+FrontEnd: React | Redux | Next.js | CSS | Tailwind | Material UI
 
 BackEnd: Node | Express | JavaScript
 
 Database: PostgreSQL | Sequelize | MongoDb
+
+Other: Figma | Agile
 
 <br>
 <a href="https://es.react.dev/">
