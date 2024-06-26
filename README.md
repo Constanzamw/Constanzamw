@@ -30,6 +30,8 @@ Database: PostgreSQL | Sequelize | MongoDb
 
 Other: Figma | Agile
 
+English : C2 -  Official EF SET Certificate: https://cert.efset.org/sKtvfJ
+
 <br>
 <a href="https://es.react.dev/">
   <img src="https://github.com/Constanzamw/Constanzamw/assets/140072401/8678310e-e526-4bcf-9748-4c04e2003f68" width="50">
