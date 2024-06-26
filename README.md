@@ -30,7 +30,7 @@ Database: PostgreSQL | Sequelize | MongoDb
 
 Other: Figma | Agile
 
-English : C2 -  Official EF SET Certificate: https://cert.efset.org/sKtvfJ
+English : C1 -  Official EF SET Certificate: https://cert.efset.org/sKtvfJ
 
 <br>
 <a href="https://es.react.dev/">
